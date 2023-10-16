@@ -9,7 +9,7 @@ const ExpenseItem = (data) => {
 
   const clickHandler = () => {
     setTitle('Updated!');
-    console.log(title);
+    // console.log(title);
   }
 
   return (
